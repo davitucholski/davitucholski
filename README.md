@@ -1,16 +1,14 @@
-### Hi there 👋
+hello :grin:
 
-<!--
-**davitucholski/davitucholski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é **Davi Gabriel Tucholski**
 
-Here are some ideas to get you started:
+tenho 15 anos de idade 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:point_down: estou aprendendo a programar em 
+
+
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+&
+![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+
+na diciplina de [pensamento computacional](https://happycodeschool.com/blog/o-que-e-pensamento-computacional-por-que-e-importante/)
